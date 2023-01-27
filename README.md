@@ -4,7 +4,7 @@ Combining Gene Kogan's p5js-osc (https://github.com/genekogan/p5js-osc) & stc's 
 
 
 # howto
-1. install node under https://nodejs.org/en/
+1. install node from https://nodejs.org/en/
 2. go to folder via terminal and install node packages
 ```
 cd 5js-face-emotion-tracking-to-MaxMSP 
