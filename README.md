@@ -1,10 +1,7 @@
 # p5js-face-emotion-tracking-to-MaxMSP
 Combining Gene Kogan's p5js-osc (https://github.com/genekogan/p5js-osc) & stc's (Binaura) face-tracking-p5js (https://github.com/stc/face-tracking-p5js) to a barebone "hello Max/MSP world" example for a class preparation....
 
-
-
-![/assets/images/hello.png]
-
+![MaxEmotion](/assets/images/hello.png)
 
 # howto
 1. install node under https://nodejs.org/en/
