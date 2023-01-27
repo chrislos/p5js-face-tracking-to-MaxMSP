@@ -1,5 +1,5 @@
 # p5js-face-emotion-tracking-to-MaxMSP
-Combining Gene Kogan's p5js-osc (https://github.com/genekogan/p5js-osc) & stc's (Binaura) face-tracking-p5js (https://github.com/stc/face-tracking-p5js) to a barebone "hello Max/MSP world" example for a class preparation....
+Combining Gene Kogan's p5js-osc (https://github.com/genekogan/p5js-osc) & Agoston Nagy's (Binaura) face-tracking-p5js (https://github.com/stc/face-tracking-p5js) to a barebone "hello Max/MSP world" example for a class preparation....
 
 
 
@@ -23,7 +23,7 @@ or just by pressing 'start script' in the max_receive.maxpat patch.
 only tested on mac.
 
 
-Thanks again Gene and stc for saving me hours of work.
+Thanks again Gene and Agoston for saving me hours of work.
 cheers
 
 ![MaxEmotion](/assets/images/hello.png)
