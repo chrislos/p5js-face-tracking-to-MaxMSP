@@ -25,4 +25,6 @@ or just by pressing 'start script' in the max_receive.maxpat patch.
 
 only tested on mac.
 
-cheers.
+
+Thanks again Gene and stc for saving me hours of work.
+cheers
