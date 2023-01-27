@@ -11,6 +11,6 @@ Combining Gene Kogan's p5js-osc (https://github.com/genekogan/p5js-osc) & stc's 
 
 only tested on mac.
 
-cheers.
 
 Thanks again Gene and stc for saving me hours of work.
+cheers
